@@ -1,0 +1,8 @@
+{
+  "name": "http",
+  "date":"2023-5-15T23:1:6",
+  "latestVersion": "0.13.5",
+  "description": "A composable, multi-platform, Future-based API for HTTP requests.",
+  "publisher": "dart.dev",
+  "repository": "https://github.com/Wwyekunminghehaipinglianyu/my_netFetch/new/main"
+}
